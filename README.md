@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhsm07 (Saurabh Mahambrey)
 - 👀 I’m interested in : Data Engineering / Analytics; Backend development and system design
-- 🌱 I’m currently learning : AWS basics, Flask
+- 🌱 I’m currently learning : Data engineering, Software developement design python
 - 💞️ I’m looking to collaborate on : Anything related to above mentioned topics with a good learning curve :)
 - 📫 How to reach me: mahambrey.saurabh07@gmail.com
 
